@@ -1,0 +1,8 @@
+admin login info
+
+email -> admin@gmail.com
+phone -> 01903153062
+
+one student login info
+email-> tarin.cse5.bu@gmail.com
+phone-> 01903153065
